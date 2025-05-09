@@ -118,6 +118,7 @@ button:disabled {
     width: 60%;
     height: 25rem;
     margin: auto;
+    overflow-x: hidden;
   }
 
   .nav-links {
