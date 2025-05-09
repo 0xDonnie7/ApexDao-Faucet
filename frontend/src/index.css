@@ -114,19 +114,28 @@ button:disabled {
 }
 
 @media (max-width: 460px) {
+  body {
+    width: 100%;
+  }
+
   .general-page {
-    width: 60%;
+    width: 80%;
     height: 25rem;
     margin: auto;
+    padding: 1rem;
     overflow-x: hidden;
   }
 
   .nav-links {
     width: 80%;
-    font-size: 0.6rem;
+    font-size: 0.8rem;
   }
 
   .display-address {
     font-size: 0.8rem;
+  }
+
+  button {
+    padding: 0.5rem 1rem;
   }
 }
