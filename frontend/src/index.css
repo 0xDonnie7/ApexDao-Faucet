@@ -79,6 +79,7 @@ input {
   box-shadow: inset 0 2px 5px #eee, 0 4px 10px rgba(0, 0, 0, 0.5);
   font-family: 'Roboto Slab', sans-serif;
   font-size: 1rem;
+  overflow-x: hidden;
 }
 
 button {
@@ -120,8 +121,8 @@ button:disabled {
   }
 
   .nav-links {
-    width: 90%;
-    font-size: 0.9rem;
+    width: 80%;
+    font-size: 0.6rem;
   }
 
   .display-address {
