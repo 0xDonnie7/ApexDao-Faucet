@@ -8,13 +8,18 @@
   min-height: 100vh;
 }
 
+html {
+  height: 100%;
+  width: fit-content;
+}
+
 body {
   width: 40rem;
   margin: 2rem auto;
   font-family: 'Roboto Slab', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(#508a92, #3986aa);
+  background: #3986aa;
   color: #d9e2f1;
   min-height: 100vh;
 }
@@ -108,7 +113,7 @@ button:disabled {
 
 @media (max-width: 460px) {
   .general-page {
-    width: 80%;
+    width: 70%;
     height: 25rem;
     margin: auto;
   }
