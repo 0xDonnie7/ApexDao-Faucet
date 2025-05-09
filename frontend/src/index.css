@@ -22,6 +22,7 @@ body {
   background: #3986aa;
   color: #d9e2f1;
   min-height: 100vh;
+  overflow-x: hidden;
 }
 
 .general-page {
