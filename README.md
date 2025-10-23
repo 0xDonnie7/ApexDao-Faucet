@@ -5,7 +5,7 @@ ApexDao Faucet is a sepolia faucet that distributes ETH to users. This faucet is
 ## 🌟 Features
 Token Distribution: Users can claim tokens via the faucet.
 
-Smart Contract Interaction: Built on Ethereum/other blockchain smart contracts.
+Smart Contract Interaction: Built on Sepolia.
 
 Web Interface: A user-friendly React frontend..
 
